@@ -3,4 +3,5 @@ secret.py
 __pycache__/
 .idea/
 venv/
-song.mp3/
+song.mp3
+bot_image.jpg
